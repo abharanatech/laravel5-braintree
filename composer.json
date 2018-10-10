@@ -29,6 +29,8 @@
         "psr-0": {
             "Oureastudios\\Laravel": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
    
 }
