@@ -7,14 +7,14 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/igorw/monolog"
+            "url": "https://github.com/abharanatech/laravel-braintree"
         }
     ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "5.x",
         "braintree/braintree_php": "3.35.0",
-         "abharanatech/abharanatech": "dev-bugfix"
+         "abharanatech/laravel-braintree": "develop-bugfix"
     },
     "authors": [
         {
