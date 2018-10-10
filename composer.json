@@ -22,11 +22,6 @@
             "email": "abharana.techindustan@gmail.com",
             "homepage": "https://github.com/abharanatech",
             "role": "Developer"
-        },
-        {
-            "name": "Brad Daily",
-            "email": "brad@bradleyboy.com",
-            "role": "Developer"
         }
     ],
     "autoload": {
@@ -34,7 +29,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Oureastudios\\Laravel": "src/"
+            "Abharanatech\\Laravel": "src/"
         }
     },
     "minimum-stability": "dev",
