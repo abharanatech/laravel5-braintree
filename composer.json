@@ -4,6 +4,12 @@
     "keywords": ["braintree","braintree laravel 5"],
     "homepage": "https://github.com/abharanatech/laravel-braintree",
     "license": "MIT",
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/abharanatech/laravel-braintree"
+        }
+    ],
     "authors": [
         {
             "name": "Tameem Safi",
