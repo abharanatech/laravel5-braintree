@@ -14,7 +14,7 @@
         "php": ">=5.3.0",
         "illuminate/support": "5.x",
         "braintree/braintree_php": "3.35.0",
-        "abharanatech/laravel-braintree": "develop-bugfix"
+        "abharanatech/laravel-braintree": "dev-master"
     },
     "authors": [
         {
