@@ -15,9 +15,7 @@
         "illuminate/support": "5.x",
         "braintree/braintree_php": "3.35.0"  
     },
-    {
-    "version": "dev-master"
-    },
+    "version": "dev-master",
     "authors": [
         {
             "name": "Abha Rana",
